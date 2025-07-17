@@ -13,6 +13,7 @@ public class App
         // variavel
         // tipo nome = valor;
         int idade = 30;
+        int resultados = 0;
         String nome = "Ramos";
         Pessoa pessoa = new Pessoa( "Ramos", 30 , "Tio" );
 
